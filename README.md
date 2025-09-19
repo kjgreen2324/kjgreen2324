@@ -16,4 +16,4 @@
 
 ---
 
-📫 Contact: [이메일주소]
+📫 Contact: [kjgreen2324@gmail.com]
