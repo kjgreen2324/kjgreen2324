@@ -1,10 +1,9 @@
-# 🦾💼👨‍💻 Tech Archive
+# 👨‍💻 Tech Archive
 
-학습 및 인턴 과정을 통해 진행한 클라우드 관련 프로젝트입니다.  
-자세한 내용은 각 레포지토리를 참고해주세요.
+진행한 작업들을 요약하여 정리한 공간입니다.  
 
-## 📌 Projects
-- [terraform-petclinic](https://github.com/경지님아이디/terraform-petclinic)  
+## 📌 Works
+- [terraform-petclinic](https://github.com/kjgreen2324/terraform-petclinic)  
   AWS VPC, EKS, RDS 등 인프라를 Terraform으로 코드화한 프로젝트  
 
 - [eks-petclinic](https://github.com/경지님아이디/eks-petclinic)  
