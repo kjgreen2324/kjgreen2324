@@ -4,7 +4,7 @@
 
 ## 📌 Works
 - [terraform-petclinic](https://github.com/kjgreen2324/terraform-petclinic)  
-  AWS VPC, EKS, RDS 등 인프라를 Terraform으로 코드화한 프로젝트  
+  Terraform 모듈화 기반 3-Tier 아키텍처 (Petclinic)  
 
 - [eks-petclinic](https://github.com/경지님아이디/eks-petclinic)  
   Kubernetes(EKS) 환경에 Petclinic 애플리케이션을 배포하고  
