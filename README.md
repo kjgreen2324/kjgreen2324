@@ -16,4 +16,4 @@
 
 ---
 
-📫 Contact: [kjgreen2324@gmail.com]
+📫 Contact: kjgreen2324@gmail.com
