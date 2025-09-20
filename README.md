@@ -8,11 +8,8 @@
 
 - [eks-petclinic](https://github.com/경지님아이디/eks-petclinic)  
   Kubernetes(EKS) 환경에 Petclinic 애플리케이션을 배포하고  
-  HPA, Karpenter, ALB Ingress Controller 등을 적용  
-
-- [cicd-petclinic](https://github.com/경지님아이디/cicd-petclinic) *(선택)*  
-  GitHub Actions와 ArgoCD를 활용한 CI/CD 파이프라인 구성  
-
+  HPA, Karpenter, ALB Ingress Controller 등을 적용
+  
 ---
 
 📫 Contact: kjgreen2324@gmail.com
