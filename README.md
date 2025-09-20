@@ -6,7 +6,7 @@
 - [terraform-petclinic](https://github.com/kjgreen2324/terraform-petclinic)  
   Terraform 모듈화 기반 3-Tier 아키텍처 (Petclinic)  
 
-- [eks-petclinic](https://github.com/경지님아이디/eks-petclinic)  
+- [eks-petclinic](https://github.com/kjgreen2324/eks-petclinic)  
   Kubernetes(EKS) 환경에 Petclinic 애플리케이션을 배포하고  
   HPA, Karpenter, ALB Ingress Controller 등을 적용
   
